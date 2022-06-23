@@ -1,9 +1,10 @@
 
 
 
+
 **k-htmlpdf 是能将Dom一键配置输出pdf的包，**
 
-
+* 这个包是借鉴了[qq_251025116](https://blog.csdn.net/qq_24882601?type=blog)大佬的解决方案并优化升级完成的，[原文链接](https://blog.csdn.net/qq_24882601/article/details/123863353?ops_request_misc=&request_id=&biz_id=102&utm_term=html%E8%BD%ACpdf%E5%88%86%E9%A1%B5%E9%97%AE%E9%A2%98%E7%BB%88%E6%9E%81%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%20k-htmlpdf&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-123863353.nonecase&spm=1018.2226.3001.4187)
 
 > jspdf分页有个比较不好的地方就内容过长的时候虽然会虽然能做到分页，但是会把内容给截断，解决思路是给每个可能会被截断元素加上类，然后动态的计算该元素的位置是否在下一页和上一页之间，如果在的话就添加一个空白元素把这个元素给挤下去，这样就能实现了
 
