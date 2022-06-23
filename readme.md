@@ -43,7 +43,8 @@
 3. 自动换页，防止切割
 ![](https://img-blog.csdnimg.cn/img_convert/8037086b976b24b52a99c89690d0650b.png)
 
-* git 仓库 
+* gitee 仓库 
 [https://gitee.com/kirk958617/k-htmlpdf](https://gitee.com/kirk958617/k-htmlpdf)
+* github 仓库 
 [https://github.com/manongguai/k-htmlpdf](https://github.com/manongguai/k-htmlpdf)
 
