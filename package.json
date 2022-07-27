@@ -1,12 +1,17 @@
 {
   "name": "k-htmlpdf",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "kirk",
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/kirk958617/k-htmlpdf"
+  },
+  "homepage": "https://gitee.com/kirk958617/k-htmlpdf/blob/master/readme.md",
   "license": "ISC",
   "dependencies": {
     "html2canvas": "^1.4.1",
